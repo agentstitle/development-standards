@@ -1,8 +1,8 @@
 # Agents Title Software Development Fundamentals
 
-Author: [Ken Taylor](mailto:ktaylor@agentstitle.com?subject=AgentsTitle%20Software%20Development%20Fundamentals)  
+Author: [Ken Taylor](mailto:ktaylor@agentstitle.com?subject=AgentsTitle%20Software%20Development%20Fundamentals)   
 Date Created: 2018-05-30  
-Last Updated: 2018-05-30  
+Last Updated: 2018-05-30     
 
 The following four (4) practices are fundamental to success as professional software engineers and as such are central to our software development efforts at Agents Title.
 
