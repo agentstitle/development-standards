@@ -34,3 +34,8 @@ Source code is currently hosted on [Github](http://github.com/agentstitle/). The
 7. Create new stage branch from master.
 
 **NOTE:** Always branch from the master branch for your new branches.
+
+## Tools
+
+* [Github Desktop](https://desktop.github.com/)
+* [Git Commandline](https://git-scm.com/)
